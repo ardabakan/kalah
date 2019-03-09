@@ -28,7 +28,7 @@ Use Postman or another tool such as curl to make a POST request
 
 curl --header "Content-Type: application/json" \
 --request POST \
-http://<host>:<port>/games
+http://< host >:< port >/games
 
 and you will get a response containing the newly generated game id and the games uri
 
