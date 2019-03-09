@@ -40,7 +40,7 @@ and you will get a response containing the newly generated game id and the games
 
 curl --header "Content-Type: application/json" \
 --request PUT \
-http://<host>:<port>/games/{gameId}/pits/{pitId}
+http://< host >:< port >/games/{gameId}/pits/{pitId}
 
 
 ## Customising parameters
